@@ -6,4 +6,4 @@ hello from tai
 
 eiei di wa
 
-tu di wa
+config di wa 
